@@ -1,0 +1,65 @@
+body {
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Teko', sans-serif;
+}
+
+.cupom {
+    width: 100mm;
+    /* height: 180mm; */
+    background-color: rgb(247, 189, 119);
+}
+
+#linha {
+    display: flex;
+    justify-content: center;
+}
+
+#tel {
+    margin-top: -20px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+}
+
+#linha {
+    /* background-color: red; */
+    margin-top: -30px;
+}
+
+.container {
+    display: flex;
+    margin-left: 20px;
+}
+
+.informacoes {
+    width: 200px;
+    /* background-color: red; */
+}
+
+.valores {
+    /* background-color: rgb(17, 0, 255); */
+    width: 135px;
+}
+
+h3 {
+    /* background-color: red; */
+    justify-content: center;
+    display: flex;
+    margin-top: -25px;
+}
+
+#tot_item {
+    margin-top: -8px;
+}
+
+#volte_sem {
+    /* margin-top: -10px; */
+    margin-left: -30px;
+    display: flex;
+    justify-content: center;
+}
+
+.finaliza {
+    /* background-color: red; */
+    margin-left: 20px;
+}

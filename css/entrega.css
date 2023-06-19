@@ -1,0 +1,24 @@
+
+@media screen and (min-width: 480px) {
+    body {
+        background-image: url(../images/imagem-fundo/2.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-size: 100%;
+        background-position: center;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    body {
+        /* background-image: linear-gradient(rgb(22, 121, 252), rgb(121, 231, 250)); */
+        /* background-image: url(../imgens/carrinho\ de\ compras.jpg); */
+        background-image: url(../images/imagem_entregas/imagem-mobile-background.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-size: 100%;
+        background-position: center;
+    }
+  }
